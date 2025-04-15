@@ -1,0 +1,10 @@
+# Node modules (React Native)
+node_modules/
+# Python
+__pycache__/
+*.pyc
+# Environments
+.env
+# Android/iOS build (optional)
+android/app/build/
+ios/Pods/
